@@ -1,2 +1,3 @@
- N Queens
-An interview question
+0x05. N Queens
+Algorithm
+Python
